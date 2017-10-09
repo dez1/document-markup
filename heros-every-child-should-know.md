@@ -46,7 +46,7 @@ Green & Co. for material from "The Book of Romance"; to John C.
 Winston Co. for material from "Stories from History"; to Lothrop,
 Lee & Shepard for material from "The True Story of Abraham Lincoln."
 
-CONTENTS TO "HEROES EVERY CHILD SHOULD KNOW"
+## CONTENTS TO "HEROES EVERY CHILD SHOULD KNOW"
 
 
 CHAPTER
