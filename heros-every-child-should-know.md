@@ -28,7 +28,7 @@ entitled to the fullest recognition as associate editor.
 
 H. W. M.
 
-ACKNOWLEDGMENTS TO "HEROES EVERY CHILD SHOULD KNOW"
+## ACKNOWLEDGMENTS TO "HEROES EVERY CHILD SHOULD KNOW"
 
 The editor and publishers wish to extend their thanks and
 acknowledgment to the firms who have kindly permitted the use of
